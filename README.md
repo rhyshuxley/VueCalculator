@@ -1,3 +1,5 @@
+Hosted at http://rhyshuxley.co.uk/calculator
+
 # calculator
 
 ## Project setup
